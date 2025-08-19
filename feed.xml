@@ -1,11 +1,98 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://anchor.fm/s/101880124/podcast/rss" />
-    <link rel="alternate" type="application/rss+xml" title="Family Fun Trivia Podcast Feed" href="https://anchor.fm/s/101880124/podcast/rss" />
-  </head>
-  <body>
-    <p>If you are not redirected, <a href="https://anchor.fm/s/101880124/podcast/rss">click here for the feed</a>.</p>
-  </body>
-</html>
-
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Family Fun Trivia]]></title>
+		<description><![CDATA[A weekly Podcast show with kid-friendly trivia questions starring Jack and Kayla!]]></description>
+		<link>https://famfuntrivia.com</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 19 Aug 2025 23:32:33 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/101880124/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Jack Haze]]></author>
+		<copyright><![CDATA[Jack Haze]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Jack Haze</itunes:author>
+		<itunes:summary>A weekly Podcast show with kid-friendly trivia questions starring Jack and Kayla!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Jack Haze</itunes:name>
+			<itunes:email>spotify@famfuntrivia.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Kids &amp; Family">
+			<itunes:category text="Stories for Kids"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43106577/43106577-1748301703008-be43e35f55014.jpg"/>
+		<item>
+			<title><![CDATA[Ep 4: 🚘 Cars🥦 Vegetables, 🟦 The Color Blue, 🧮 Math, and 💫 Star Wars]]></title>
+			<description><![CDATA[<p>If you like what you hear, don't forget to like and subscribe! If you'd like to help contribute, please join our Patreon!🫰</p><p>https://www.patreon.com/FamilyFunTrivia</p><p><br /></p><p>00:32 🚘 Cars</p><p>06:58 🥦 Vegetables</p><p>13:07 🟦 The Color Blue</p><p>20:26 🧮 Math</p><p>26:45 💫 Star Wars</p><p><br /></p><p>And check out our new website for updates and FFT news!</p><p>https://www.famfuntrivia.com</p><p><br /></p><p>#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/jackacehole/episodes/Ep-4--Cars-Vegetables---The-Color-Blue---Math--and--Star-Wars-e36s4nm</link>
+			<guid isPermaLink="false">ad25411a-7f35-4d6f-83b9-07a6cef4d853</guid>
+			<dc:creator><![CDATA[Jack Haze]]></dc:creator>
+			<pubDate>Fri, 15 Aug 2025 05:18:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/101880124/podcast/play/106877110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-15%2F405698511-44100-2-9d0f07e949e61.mp3" length="30434532" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;If you like what you hear, don&apos;t forget to like and subscribe! If you&apos;d like to help contribute, please join our Patreon!🫰&lt;/p&gt;&lt;p&gt;https://www.patreon.com/FamilyFunTrivia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;00:32 🚘 Cars&lt;/p&gt;&lt;p&gt;06:58 🥦 Vegetables&lt;/p&gt;&lt;p&gt;13:07 🟦 The Color Blue&lt;/p&gt;&lt;p&gt;20:26 🧮 Math&lt;/p&gt;&lt;p&gt;26:45 💫 Star Wars&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;And check out our new website for updates and FFT news!&lt;/p&gt;&lt;p&gt;https://www.famfuntrivia.com&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:31:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43106577/43106577-1755210176957-3f326e7560486.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ep 3: 👧🏻🎶 Kid Songs, 🍦 Ice Cream, 👾 Video Games, 💪 The Body, 💙🐶 Bluey]]></title>
+			<description><![CDATA[<p>If you like what you hear, don't forget to like and subscribe!</p><p>If you'd like to help contribute, please join our Patreon!</p><p>🫰 https://www.patreon.com/FamilyFunTrivia</p><p><br /></p><p>00:32 👧🏻🎶 Kid Songs</p><p>07:21 🍦 Ice Cream</p><p>14:53 👾 Video Games</p><p>22:04 💪 The Body</p><p>29:56 💙🐶 Bluey</p><p><br /></p><p>And check out our new website for updates and FFT news!</p><p>https://www.famfuntrivia.com</p><p>#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly</p><p><br /></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/jackacehole/episodes/Ep-3--Kid-Songs---Ice-Cream---Video-Games---The-Body---Bluey-e36124t</link>
+			<guid isPermaLink="false">96b3dbca-6320-4b12-97bf-df98361337a7</guid>
+			<dc:creator><![CDATA[Jack Haze]]></dc:creator>
+			<pubDate>Fri, 25 Jul 2025 17:23:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/101880124/podcast/play/105989725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405681391-44100-2-aea6866023eb7.mp3" length="34467003" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;If you like what you hear, don&apos;t forget to like and subscribe!&lt;/p&gt;&lt;p&gt;If you&apos;d like to help contribute, please join our Patreon!&lt;/p&gt;&lt;p&gt;🫰 https://www.patreon.com/FamilyFunTrivia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;00:32 👧🏻🎶 Kid Songs&lt;/p&gt;&lt;p&gt;07:21 🍦 Ice Cream&lt;/p&gt;&lt;p&gt;14:53 👾 Video Games&lt;/p&gt;&lt;p&gt;22:04 💪 The Body&lt;/p&gt;&lt;p&gt;29:56 💙🐶 Bluey&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;And check out our new website for updates and FFT news!&lt;/p&gt;&lt;p&gt;https://www.famfuntrivia.com&lt;/p&gt;&lt;p&gt;#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43106577/43106577-1755210156488-6958eb8cb8f3.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ep 2: 🎶🎥 Musical Films, 🇪🇺 Europe, 💻 Technology, 🐝 Insects, 🐶🕺 Dog Man]]></title>
+			<description><![CDATA[<p>(Taylor's Version)</p><p>If you like what you hear, don't forget to like and subscribe! If you'd like to help contribute, please join our Patreon!🫰 https://www.patreon.com/FamilyFunTrivia</p><p><br /></p><p>00:32 🎶🎥 Musical Films</p><p>06:32 🇪🇺 Europe</p><p>12:10 💻 Technology</p><p>18:42 🐝 Insects</p><p>23:52 🐶🕺 Dog Man</p><p><br /></p><p>And check out our new website for updates and FFT news!https://www.famfuntrivia.com</p><p><br /></p><p>#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly</p><p><br /></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/jackacehole/episodes/Ep-2--Musical-Films---Europe---Technology---Insects---Dog-Man-e34puv1</link>
+			<guid isPermaLink="false">33cd1799-a8a1-4ce9-86ea-aac87b6bf745</guid>
+			<dc:creator><![CDATA[Jack Haze]]></dc:creator>
+			<pubDate>Sun, 13 Jul 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/101880124/podcast/play/104708513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405681188-44100-2-7b54104a887ac.mp3" length="27770043" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;(Taylor&apos;s Version)&lt;/p&gt;&lt;p&gt;If you like what you hear, don&apos;t forget to like and subscribe! If you&apos;d like to help contribute, please join our Patreon!🫰 https://www.patreon.com/FamilyFunTrivia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;00:32 🎶🎥 Musical Films&lt;/p&gt;&lt;p&gt;06:32 🇪🇺 Europe&lt;/p&gt;&lt;p&gt;12:10 💻 Technology&lt;/p&gt;&lt;p&gt;18:42 🐝 Insects&lt;/p&gt;&lt;p&gt;23:52 🐶🕺 Dog Man&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;And check out our new website for updates and FFT news!https://www.famfuntrivia.com&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;#trivia #quizshow #whowantstobeamillionaire #ww2bam #kidfriendly #familyfriendly&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:28:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43106577/43106577-1755210202872-c4a79238a16c5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ep 1: 🦅 America, 🐨 Animals, 👩‍🚀 Famous People, 🍍 Fruits, 🐭 Disney]]></title>
+			<description><![CDATA[<p>Welcome to the inaugural episode of Family Fun Trivia! If you like what you hear, don't forget to like and subscribe! If you'd like to help contribute, please join our Patreon!</p><p>🫰 https://www.patreon.com/FamilyFunTrivia</p><p><br /></p><p>00:35 🦅 America</p><p>08:02 🐨 Animals</p><p>14:39 👩‍🚀 Famous People</p><p>20:54 🍍 Fruits</p><p>27:50 🐭 Disney</p><p><br /></p><p>And check out our new website for updates and FFT news!</p><p>https://www.famfuntrivia.com</p><p><br /></p><p>v6-2025-07-24</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/jackacehole/episodes/Ep-1--America---Animals---Famous-People---Fruits---Disney-e34l2io</link>
+			<guid isPermaLink="false">93bd93ae-e4a8-4240-a6bd-81ceea3ba9af</guid>
+			<dc:creator><![CDATA[Jack Haze]]></dc:creator>
+			<pubDate>Sun, 06 Jul 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/101880124/podcast/play/104548376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405680717-44100-2-8544ae9ada515.mp3" length="31582248" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome to the inaugural episode of Family Fun Trivia! If you like what you hear, don&apos;t forget to like and subscribe! If you&apos;d like to help contribute, please join our Patreon!&lt;/p&gt;&lt;p&gt;🫰 https://www.patreon.com/FamilyFunTrivia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;00:35 🦅 America&lt;/p&gt;&lt;p&gt;08:02 🐨 Animals&lt;/p&gt;&lt;p&gt;14:39 👩‍🚀 Famous People&lt;/p&gt;&lt;p&gt;20:54 🍍 Fruits&lt;/p&gt;&lt;p&gt;27:50 🐭 Disney&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;And check out our new website for updates and FFT news!&lt;/p&gt;&lt;p&gt;https://www.famfuntrivia.com&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;v6-2025-07-24&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:32:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43106577/43106577-1755210221073-5ea725c3c0f8c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
